@@ -10,7 +10,7 @@
 I created a back end for an e-commerce site by taking a working Express.js API and configure it to use Sequelize to interact with a MySQL database.. <br>
 
 video link part 1: https://screencast-o-matic.com/watch/c3nucPVbJlD <br>
-video link part 2: https://screencast-o-matic.com/content/video/c3nuVhVbJIu
+video link part 2: https://screencast-o-matic.com/watch/c3nuVhVbJIu
 
 ### Questions?
 
